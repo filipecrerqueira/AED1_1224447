@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algoritmo e Estrutura de Dados 2026S1
+Nome        : Filipe Siqueira e Cerqueira
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1110
+Data        : 15/10/2026
+Objetivo    : Pensar em prioridade
+Dificuldade : Medio
+Uso de IA   : usei apenas para entender a formatacao do beecrowd e os conceitos de prioridade entre os parenteses de fechar e de abrir. 
+-------------------------------------------------------------------------- */
 
 #include <stdio.h>
 
