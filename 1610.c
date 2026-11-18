@@ -1,3 +1,16 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algoritmo e Estrutura de Dados 2026S1
+Nome        : Filipe Siqueira e Cerqueira
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1610
+Data        : 18/11/2026
+Objetivo    : ordenar estados
+Dificuldade : Muito alta 
+Uso de IA   : usei bastante ia para construir o codigo e explicar o que esta acontecendo 
+-------------------------------------------------------------------------- */
+
+
+
 #include <stdio.h>
 
 #define MAXN 10010
