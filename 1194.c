@@ -1,3 +1,14 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algoritmo e Estrutura de Dados 2026S1
+Nome        : Filipe Siqueira e Cerqueira
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1194
+Data        : 19/11/2026
+Objetivo    : Pensar em prioridade
+Dificuldade : alto
+Uso de IA   : usei para entender o codigo postado e desenvolver as funções.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
